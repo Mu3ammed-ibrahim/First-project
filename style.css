@@ -1,12 +1,5 @@
 body{
-<<<<<<< HEAD
-    background-color: darkslategray;
-=======
     background-color: #000;
-    display: block;
- 
-    
->>>>>>> muhammed
 }
 
 
@@ -18,20 +11,11 @@ h1{
 p{
  
     text-transform: capitalize;
-<<<<<<< HEAD
-    color: #3b3737;
+    color: rgb(230, 171, 22);;
     letter-spacing: 5px;
-    border: #000;
-    border-radius: 10px;
+  
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
-    width: 200px;
     padding: 10px;
-    background-color: #fff;
-=======
-    color: rgb(230, 171, 22);
-    letter-spacing: 5px;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: large;
->>>>>>> muhammed
+   
 }
