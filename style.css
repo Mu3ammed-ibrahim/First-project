@@ -1,5 +1,5 @@
 body{
-    background-color: aquamarine;
+    background-color: darkslategray;
 }
 
 
@@ -9,9 +9,13 @@ h1{
 }
 p{
     text-transform: capitalize;
-    color: #fff;
+    color: #3b3737;
     letter-spacing: 5px;
     border: #000;
     border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    width: 200px;
+    padding: 10px;
     background-color: #fff;
 }
